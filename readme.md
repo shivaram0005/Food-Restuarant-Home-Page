@@ -1,6 +1,6 @@
 # Project  | Food Restuarant Home Page  ![Project 2](https://img.shields.io/badge/Project%20-2-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
 
-### By Thalloju Shivara
+### By Thalloju Shivaram
 
 
 ## 🔗Live Link -: [Food Restuarant Home Page]()
